@@ -1,0 +1,35 @@
+    header{
+        text-align: right;
+    }
+    
+    h1{
+        font-size: large;
+        font-weight: bolder;
+        
+    }
+    
+
+    
+    
+    h3{
+        font-family: 'Bad Script', cursive;
+        text-indent: 1cm;
+        font-weight:bold;
+        text-decoration:
+         underline;
+    }
+    article{
+        font-family: 'Bad Script', cursive;
+        text-indent: 30px;
+
+
+
+    }
+    footer{
+       
+        font-weight: bolder;
+        text-align: left;
+    }
+
+ 
+
